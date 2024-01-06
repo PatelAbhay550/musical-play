@@ -208,8 +208,10 @@ button {
 .bottomtxt h2 {
   font-size: 0.81rem;
   margin: 10px;
+  margin-bottom:-10px;
 }
 .bottomtxt p {
   font-size: 0.79rem;
   margin-left: 10px;
+  
 }
